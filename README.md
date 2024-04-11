@@ -1,1 +1,1 @@
-# Movies Recommender System using tmdb movies dataset
+# Movies Recommender System using tmdb dataset
